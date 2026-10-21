@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.ygfoster.recipebox",
+      "sha256_cert_fingerprints": ["99:EB:02:8A:62:31:AD:C9:5A:99:D9:BD:A2:13:1C:C2:C6:6E:D8:3C:52:50:C5:B2:57:61:BB:CB:25:5C:C8:B2"]
+    }
+  }
+]
