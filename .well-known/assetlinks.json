@@ -6,5 +6,13 @@
       "package_name": "io.github.ygfoster.recipebox",
       "sha256_cert_fingerprints": ["99:EB:02:8A:62:31:AD:C9:5A:99:D9:BD:A2:13:1C:C2:C6:6E:D8:3C:52:50:C5:B2:57:61:BB:CB:25:5C:C8:B2"]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.ygfoster.gymmo2",
+      "sha256_cert_fingerprints": ["6F:DB:A5:9A:FA:08:4E:74:A6:2F:4B:EC:A2:2C:6E:11:5A:ED:2C:43:D8:F1:8C:5D:14:48:2B:38:F7:30:3B:2E"]
+    }
   }
 ]
